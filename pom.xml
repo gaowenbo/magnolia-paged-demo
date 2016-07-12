@@ -112,6 +112,7 @@
   </repositories>
 
   <modules>
+	<module>demo</module>
     <module>paged-demo-webapp</module>
   </modules>
 </project>
