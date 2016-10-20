@@ -9,7 +9,7 @@
 
   <properties>
     <magnoliaVersion>5.4.6</magnoliaVersion>
-    <javaVersion>1.8</javaVersion>
+    <javaVersion>1.7</javaVersion>
     <demoVersion>1.0.0</demoVersion>
   </properties>
 
