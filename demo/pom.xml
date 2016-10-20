@@ -14,10 +14,6 @@
   <!--
   <description>Please uncomment and fill in ...</description>
   -->
-  <properties>
-    <magnoliaVersion>5.4.6</magnoliaVersion>
-    <javaVersion>1.8</javaVersion>
-  </properties>
 
   <dependencies>
   	<dependency>
@@ -65,7 +61,7 @@
         <configuration>
           <source>${javaVersion}</source>
           <target>${javaVersion}</target>
-		  <encoding>utf8</encoding> 
+	   <encoding>utf-8</encoding> 
         </configuration>
       </plugin>
     </plugins>
